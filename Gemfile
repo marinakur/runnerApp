@@ -25,7 +25,7 @@ gem 'mysql2'
 # gem 'aws-s3', :require => 'aws/s3'
 
 #gem 'newrelic_rpm',:path => '/home/qauser/newrelic/ruby_agent'
-gem 'newrelic_rpm', '2.14.1'
+#gem 'newrelic_rpm', '2.14.1'
 
 # Bundle gems for the local environment. Make sure to
 # put test-only gems in this group so their generators
